@@ -1,0 +1,6 @@
+google-cloud-aiplatform>=1.38
+google-cloud-storage
+vertexai>=1.38
+requests
+# The key new dependency for the agent framework
+google-cloud-adk
